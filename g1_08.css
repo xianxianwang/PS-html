@@ -1,0 +1,50 @@
+.col-md-2{
+	float:left;
+	width:20%;
+	padding:10px;
+}
+.col-md-7{
+	float:left;
+	width:40%;
+	padding:10px 60px;
+	text-align:center;
+}
+.col-md-3{
+	float:left;
+	width:20%;
+	padding:10px;
+}
+.nav{
+	list-style-type:none;
+	position:fixed;
+}
+.nav a{
+	display:block;
+	text-decoration:none;
+	width:150px;
+	text-align:center;
+	font-weight:bold;
+	padding:10px;
+	background-color:MistyRose ;
+	border-radius:10px;
+	color:black;
+	border:1px solid lightgray;
+}
+.nav a:hover{
+	background-color:Pink 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

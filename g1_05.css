@@ -1,0 +1,34 @@
+.g1_05{
+	list-style-type:none;	
+}
+.g1_05_1{
+	font-weight:bold;
+	background-color:DarkSeaGreen ;
+	padding:10px;
+	width:160px;
+	text-align:center;
+	
+}
+.g1_05 a{
+	display:block;
+	text-decoration:none;
+	background-color:lightgray;
+	text-align:center;
+	padding:10px;
+	width:160px;	
+	font-weight:bold;
+	color:black;
+}
+.g1_05 a:hover{
+	background-color:white;
+}
+
+#sec1,#sec2,#sec3,#sec4,#sec5,#sec6,#sec7{
+	display:none;
+	color:Maroon ;
+	font-weight:bold;
+	width:350px;
+}
+
+
+
